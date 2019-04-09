@@ -1,0 +1,17 @@
+{
+  "name": "webcrawler-practice",
+  "version": "1.0.0",
+  "description": "\"practice creating a web crawler",
+  "main": "crawler.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "url-parse": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lindsay fletcher",
+  "license": "ISC"
+}
